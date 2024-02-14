@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "self_signed_exe_updater", "self_signed_exe_updater\self_signed_exe_updater.csproj", "{46121C8A-3AD5-47D4-8E05-A43C3359324D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS3WMAPI", "..\PS3WMAPI\PS3WMAPI\PS3WMAPI.csproj", "{BAB2AA5F-3C05-41EE-8801-B953BFA13DD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46121C8A-3AD5-47D4-8E05-A43C3359324D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46121C8A-3AD5-47D4-8E05-A43C3359324D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46121C8A-3AD5-47D4-8E05-A43C3359324D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46121C8A-3AD5-47D4-8E05-A43C3359324D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB2AA5F-3C05-41EE-8801-B953BFA13DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB2AA5F-3C05-41EE-8801-B953BFA13DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB2AA5F-3C05-41EE-8801-B953BFA13DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB2AA5F-3C05-41EE-8801-B953BFA13DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {734E344B-C110-49AF-88F3-3D39F823B9D9}
+	EndGlobalSection
+EndGlobal

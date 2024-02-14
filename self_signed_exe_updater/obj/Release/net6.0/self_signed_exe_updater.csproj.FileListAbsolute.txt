@@ -1,0 +1,14 @@
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\bin\Release\net6.0\self_signed_exe_updater.exe
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\bin\Release\net6.0\self_signed_exe_updater.deps.json
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\bin\Release\net6.0\self_signed_exe_updater.runtimeconfig.json
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\bin\Release\net6.0\self_signed_exe_updater.dll
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\bin\Release\net6.0\self_signed_exe_updater.pdb
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\obj\Release\net6.0\self_signed_exe_updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\obj\Release\net6.0\self_signed_exe_updater.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\obj\Release\net6.0\self_signed_exe_updater.AssemblyInfo.cs
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\obj\Release\net6.0\self_signed_exe_updater.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\obj\Release\net6.0\self_signed_exe_updater.dll
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\obj\Release\net6.0\refint\self_signed_exe_updater.dll
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\obj\Release\net6.0\self_signed_exe_updater.pdb
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\obj\Release\net6.0\self_signed_exe_updater.genruntimeconfig.cache
+C:\Users\root\source\repos\self_signed_exe_updater\self_signed_exe_updater\obj\Release\net6.0\ref\self_signed_exe_updater.dll

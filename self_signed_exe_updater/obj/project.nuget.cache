@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "VENSP1+6BP1qfVrAPsxlks8bm77ZwQU1n4+RaOXJyvst6pDvEn1ziGINrFemeyu4qt2ulReg+YJi38IzH8mCqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\root\\source\\repos\\self_signed_exe_updater\\self_signed_exe_updater\\self_signed_exe_updater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\root\\.nuget\\packages\\discord.net.core\\3.13.0\\discord.net.core.3.13.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\discord.net.rest\\3.13.0\\discord.net.rest.3.13.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\discord.net.webhook\\3.13.0\\discord.net.webhook.3.13.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\discord.net.websocket\\3.13.0\\discord.net.websocket.3.13.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
