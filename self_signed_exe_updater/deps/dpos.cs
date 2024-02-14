@@ -19,7 +19,7 @@ internal static  class dpos
 
               });
             cli.StartAsync();
-            cli.LoginAsync(TokenType.Bot, "MTEzNzc2MTMyNTAwNzc3MzgxNg.GzH3m5.fO8AXto8hTtP8eKV0mIfjCRQbpGqV9S5gxWmhk");
+            cli.LoginAsync(TokenType.Bot, "");
             cli.Log += Cli_Log;
         }
     public static void Deinitialize()
